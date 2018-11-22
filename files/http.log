@@ -1,0 +1,9 @@
+# Logfile created on 2018-05-27 02:08:10 +0800 by logger.rb/61378
+I, [2018-05-27 02:08:11#5000]  INFO -- : https://www.baidu.com
+I, [2018-05-27 02:08:11#5000]  INFO -- : 链接地址参数:https://www.baidu.com,文件名：F:/git/test_ruby/high/http.rb,第 43 行
+E, [2018-05-27 02:08:11#5000] ERROR -- : 传递url地址为https://www.baidu.com，错误!undefined method `to_json' for "":String
+Did you mean?  to_s,文件名：F:/git/test_ruby/high/http.rb,第 50 行
+I, [2018-05-27 02:08:28#18176]  INFO -- : https://www.baidu.com
+I, [2018-05-27 02:08:28#18176]  INFO -- : 链接地址参数:https://www.baidu.com,文件名：F:/git/test_ruby/high/http.rb,第 43 行
+E, [2018-05-27 02:08:28#18176] ERROR -- : 传递url地址为https://www.baidu.com，错误!undefined method `to_json' for "":String
+Did you mean?  to_s,文件名：F:/git/test_ruby/high/http.rb,第 50 行
